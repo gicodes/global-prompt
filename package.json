@@ -1,0 +1,19 @@
+{
+  "name": "chinode_list",
+  "version": "1.0.0",
+  "description": "A package file that list out the contents of a relative path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
+  "dependencies": {
+    "ansi-styles": "^6.2.1",
+    "chalk": "^5.1.2"
+  }
+}
