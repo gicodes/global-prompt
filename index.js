@@ -5,11 +5,6 @@ const util = require('util');
 const chalk = require('chalk');
 const path = require('path');
 
-
-// Method #2
-// const lstat = util.promisify(fs.lstat);
-
-// Method #3
 const { lstat } = fs.promises;
 
 const targetDir = process.argv[2] || process.cwd();
@@ -38,16 +33,3 @@ fs.readdir(process.cwd(), async (err, filenames) => {
 
     }
 });
-
-// Method #1
-// const lstat = filename => {
-//   return new Promise((resolve, reject) => {
-//     fs.lstat(filename, (err, stats) => {
-//       if (err) {
-//         reject(err);
-//       }
-
-//       resolve(stats);
-//     });
-//   });
-// };
