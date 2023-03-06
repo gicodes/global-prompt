@@ -12,7 +12,7 @@
 
 ## Tool Usability
 
-Basic knowledge of command prompt or CLI is required to rightly use this tool.
+Basic knowledge of a command prompt or CLI is required to use this tool.
 
 - Naviagte to your terminal (Mac | Linux) or command prompt (windows)
 - Ensure you're in the correct directory path to avoid feeding your PC wrong command
