@@ -16,5 +16,5 @@ Basic knowledge of command line or CLI is required to use this tool.
 
 - Naviagte to your terminal (Mac | Linux) or command prompt (windows)
 - Ensure you're in the correct directory path to avoid feeding your PC wrong command
-- To view files and folders in a directory, run the command "chinode" 
-- Your PC may take time to process the command and return the files or folders found
+- To view files and folders in a directory, simply run the command 'chinode'
+- Your PC may take time to process the command before displaying files or folders found
