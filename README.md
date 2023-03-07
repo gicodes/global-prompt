@@ -3,7 +3,7 @@
 - is a javascript tool built on node.js runtime.
 - It extends npm's ability to access the global scope from the command line.
 
-## What is the use?
+## What does it do?
 
 - The work of this tool is to view or show files and folders in a given directory.
 - It returns an un-ordered list of files && | folders available within the directory.
