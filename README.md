@@ -1,4 +1,4 @@
-# chi(node).js
+# g-view-path
 - is a javascript tool built on node.js runtime.
 - It extends npm's ability to access the global scope from the command line.
 
